@@ -25,7 +25,7 @@
 
 ### [回路図](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/Schematics/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle_sch.pdf)
 
-### [部品表](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle_partsList.md)
+### [部品表](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/PartsList/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle_partsList.md)
 
 ## 製品仕様
 
