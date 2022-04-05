@@ -1,98 +1,39 @@
-# -ADXXXXX-Template
+# ADSLAR 自動走行ロボットキット「D3BV」
 
-## ここに見出し
+## サレジオ高専と共同開発！現場の声を反映した基礎学習向けキット
 
-![タイトル画像のURLを右のカッコに]()
+![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/03/D3BV515-1.jpg)
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+「電子工作入門！自動走行ロボットキット D3BV」は電子工作に習熟したいユーザーのための入門用ロボットキット。
 
-<!--
-改行する場合、文末に半角スペース2個を置く
+サレジオ高専の学生や先生と共同開発したこのキットは、抵抗やコンデンサなどのハンダ付けを行うだけで自動走行するロボットを作ることができます。
 
-リンクの貼り方
-[リンクになる文章](URL)
-exp.
-[Google](https://www.google.co.jp/)
+組み立てマニュアルも付属し、ハンダ付けが初めての方でも安心して練習に取り組むことが可能です。
 
-画像の貼り方
-![画像が読めない時に表示されるテキスト](画像のURL)
-exp.
-![bit-trade-one](https://bit-trade-one.co.jp/wp/wp-content/uploads/tcd-w/logo.png)
-※先頭の"!"を忘れないこと
+近接センサ搭載で壁などの障害物を感知しストップする機能や、かざした手を追随する機能など楽しく遊べるロボットになっています。
+
+ハードウェアのみでの走行を実現しているため、ソフトウェア面の心配は必要ありません。
+
+教育現場の声を反映した、ハンダ付けの習熟と電気回路の基礎学習ができる入門用ロボットとして、自由工作や教材用途におすすめです。
 
 
-見出しの付け方
+# [製品の詳細はこちら](http://bit-trade-one.co.jp/adslar/) 
 
-# 見出し1
+## [マニュアル](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/raw/master/Manual)
 
-## 見出し1-1
+## [Q&A](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/FAQ.md)
 
-###　見出し1-2
+### [回路図](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/Schematics/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle.pdf)
 
-# 見出し2
-
-"#"を増やすと下位の見出しになる
-
-
--->
-
-
-<!--
-以下のURL内の"-ADXXXXX-Template"をリポジトリ名/ファイル名に変更 
-
-製品によって無い情報(ライブラリへのリンクなど)は削除すること
-
-ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
-各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
--->
-
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
-
-### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
-
-### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
-
-
-## 作例
-
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
-
-## 雑誌掲載情報
-
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
+### [部品表](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/Partslist/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle.md)
 
 ## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
+
+    【電源】単4電池 4本
+    【駆動部】ギアボックス付きDCモータ 2個
+    【本体重量】約145g
+    【本体サイズ】78×125×105 mm
+    【測距モジュール】  GP2Y0A21YK 2個
+    【別途必要物】ハンダごて・ハンダ線・プラスドライバー・単4電池 4本　※ハンダ吸い取り線の準備を推奨します
+    【使用温度】 0 ～ 40℃（結露なきこと）
     【生産国】Made in Japan
