@@ -19,7 +19,7 @@
 
 # [製品の詳細はこちら](http://bit-trade-one.co.jp/adslar/) 
 
-## [マニュアル](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/raw/master/Manual)
+## [組立手順書](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/%E3%82%B5%E3%83%AC%E3%82%B8%E3%82%AA%E8%87%AA%E5%8B%95%E8%B5%B0%E8%A1%8C%E3%83%AD%E3%83%9C%E5%9F%BA%E6%9D%BF%E5%88%B6%E4%BD%9C%E6%89%8B%E9%A0%862022-03-18_.pdf)
 
 ## [Q&A](https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle/blob/master/FAQ.md)
 
